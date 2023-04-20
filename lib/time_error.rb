@@ -25,6 +25,6 @@ class TimeError
   end
 end
 
-p Time.now
-time_error = TimeError.new
-p time_error.error
+# p Time.now
+# time_error = TimeError.new
+# p time_error.error
